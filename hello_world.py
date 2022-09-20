@@ -3,5 +3,4 @@ def print_hello():
 
 if __name__ == '__main__':
     print_hello()
-
-print('지금이순간')
+print("김븅슨")
