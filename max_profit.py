@@ -5,5 +5,6 @@ def maxProfit_bruteforce (prices):
        for j in range(i, len(prices)):
            max_price = max(prices[j] - price, max_price)
 
-   return
+   return max_price
 
+print('푸하핫')
