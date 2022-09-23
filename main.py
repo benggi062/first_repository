@@ -8,4 +8,4 @@ if __name__ == '__main__':
     pn.is_prime_number(31)
     pn.is_prime_number(45)
     pn.is_prime_number(97)
-
+print("지금이 순간 지금여기 간절히 바라고")
